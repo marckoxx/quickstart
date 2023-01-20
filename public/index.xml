@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Test Site</title>
+        <link>http://example.org/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>pablo.marckoantonio@gmail.com (Marcko)</managingEditor>
+            <webMaster>pablo.marckoantonio@gmail.com (Marcko)</webMaster><lastBuildDate>Fri, 20 Jan 2023 22:36:22 &#43;0800</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>The More You Know</title>
+    <link>http://example.org/posts/first/</link>
+    <pubDate>Fri, 20 Jan 2023 22:36:22 &#43;0800</pubDate>
+    <author>Marcko</author>
+    <guid>http://example.org/posts/first/</guid>
+    <description><![CDATA[Wikis/Megathreads/Awesome Github Repos Awesome Github Awesome - Awesome lists about all kinds of interesting topics. Find most of the &ldquo;Awesome&rdquo; Github repos here.
+Awesome Awesomeness - A curated list of awesome awesomeness. Similar to what&rsquo;s above.
+Awesome Research - A curated list of tools to help you with your research/life.
+Awesome Python - A curated list of awesome Python frameworks, libraries, software and resources.
+Awesome Piracy - A curated list of awesome warez and piracy links.]]></description>
+</item>
+</channel>
+</rss>
